@@ -13,6 +13,12 @@ body {
 
 #comingsoon {
   text-align: center;
-  font-size:7vw;
+  font-size: 4vw;
   color: #5478d3;
+  transform: scale(1, 0.5);
+  -webkit-transform: scale(1, 0.5); /* Safari and Chrome */
+  -moz-transform: scale(1, 0.5); /* Firefox */
+  -ms-transform: scale(1, 0.5); /* IE 9+ */
+  -o-transform: scale(1, 0.5); /* Opera */
+  letter-spacing: 1.5vw;
 }
