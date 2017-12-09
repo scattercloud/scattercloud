@@ -7,12 +7,12 @@ body {
 #scattercloud {
   text-align: center;
   vertical-align: center;
-  font-size: 125pt;
+  font-size: 10vw;
   color: #e8e8e8;
 }
 
 #comingsoon {
   text-align: center;
-  font-size:36pt;
+  font-size:7vw;
   color: #5478d3;
 }
